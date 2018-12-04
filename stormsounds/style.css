@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+   background-image: url("images/background.jpg");
+   background-color: #545454;
+}
+
+table {
+	width: 600px;
+	border: 1px solid #FFF;
+	background-color: #333333;
+}
+
+h1 {
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	color: #FFF;
+}
+
+p {
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	color: #FFF;
+}
+
+a {
+    color: #bf638f;
+}
+a:hover {
+    color: #fff;
+}
+
+form {
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	color: #FFF;
+}
