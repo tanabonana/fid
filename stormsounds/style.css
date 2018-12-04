@@ -32,3 +32,14 @@ form {
     font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 	color: #FFF;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.right{
+	float:right;
+	margin-left:20px
+}
